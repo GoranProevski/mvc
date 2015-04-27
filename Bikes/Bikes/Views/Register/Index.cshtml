@@ -1,0 +1,29 @@
+﻿@model System.Collections.Generic.IEnumerable<Register.DomainModel.Bike>
+
+@{
+    ViewBag.Title = "Register User";
+}
+
+<div class="container"> 
+    <div class="row">
+        <div class="col-md-10">
+            <h2>List of bikes</h2>
+            <table>
+                <tbody>
+                    @foreach (var bike in this.Model)
+                    {
+                        <tr>
+                            <td>@bike.BikeId</td>
+                            <td>@bike.RegNumber</td>
+                            <td>@bike.Company</td>
+                            <td>@bike.Model</td>
+                            <td>@bike.Color</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</div>

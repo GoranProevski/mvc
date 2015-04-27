@@ -1,0 +1,12 @@
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\Register.DataLayer.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\Register.DataLayer.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\obj\Debug\Register.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\obj\Debug\Register.DataLayer.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\obj\Debug\Register.DataLayer.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\Register.DataLayer.dll.config
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\Register.DomainModel.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DataLayer\bin\Debug\Register.DomainModel.pdb

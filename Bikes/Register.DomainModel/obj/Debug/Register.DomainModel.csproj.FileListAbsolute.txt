@@ -1,0 +1,5 @@
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DomainModel\bin\Debug\Register.DomainModel.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DomainModel\bin\Debug\Register.DomainModel.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DomainModel\obj\Debug\Register.DomainModel.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DomainModel\obj\Debug\Register.DomainModel.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.DomainModel\obj\Debug\Register.DomainModel.csprojResolveAssemblyReference.cache

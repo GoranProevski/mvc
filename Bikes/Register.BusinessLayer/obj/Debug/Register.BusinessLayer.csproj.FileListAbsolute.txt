@@ -1,0 +1,14 @@
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\obj\Debug\Register.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\Register.BusinessLayer.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\Register.BusinessLayer.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\obj\Debug\Register.BusinessLayer.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\obj\Debug\Register.BusinessLayer.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\Register.DataLayer.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\Register.DataLayer.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\Register.DomainModel.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\Register.DomainModel.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\Register.BusinessLayer.dll.config
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
